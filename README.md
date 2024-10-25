@@ -22,7 +22,6 @@ In next steps, Time series analysis will be performed on chat data
 * Step 16: Most suitable hour of the day whenever there will be more chances of getting a response from user
 
 Project visulizations
-https://github.com/KashmalaJamshaid/NLP-implementation-on-whastapp-chats-using-python/commit/cdb2f4faf7e8891f00a1ffa9cb46497ac0202bd2#commitcomment-53149178
 
 ![Most suitable hour of the day](https://user-images.githubusercontent.com/65674945/124717183-bb711b00-deb9-11eb-8d64-5ffd6372fc7a.PNG)
 ![Mostly active day of chat in a week](https://user-images.githubusercontent.com/65674945/124717187-bca24800-deb9-11eb-886d-258e8fc73213.PNG)
